@@ -1,2 +1,2 @@
-# arfundation_demo
-Unity ARFundation demo
+# arfoundation_demo
+Unity ARFoundation demo
