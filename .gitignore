@@ -17,6 +17,7 @@
 /arf_demo/[Bb]uilds/
 /arf_demo/[Ll]ogs/
 /arf_demo/[Mm]emoryCaptures/
+/arf_demo/.idea/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
