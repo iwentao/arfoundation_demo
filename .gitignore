@@ -10,6 +10,14 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+/arf_demo/[Ll]ibrary/
+/arf_demo/[Tt]emp/
+/arf_demo/[Oo]bj/
+/arf_demo/[Bb]uild/
+/arf_demo/[Bb]uilds/
+/arf_demo/[Ll]ogs/
+/arf_demo/[Mm]emoryCaptures/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
